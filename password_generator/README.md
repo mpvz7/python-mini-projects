@@ -36,7 +36,7 @@ This is a simple Python project that generates secure, random passwords of varyi
 ## Example Output
 
 ```
-Welcome to the Password Generator. Press Enter to continue...
+Welcome to the Password Generator!
 
 Enter the length of the password: 12
 Use uppercase letters? (y/n): y
@@ -52,3 +52,7 @@ Password saved to generated_password.txt
 ## Code Explanation
 
 The `main.py` file uses the Python `random` module to generate a secure password. It takes user input to customize the password's characteristics and then randomly selects characters from appropriate sets (letters, numbers, special characters) to form the password. If an option is selected, it ensures that the corresponding character type appears at least once in the generated password.
+
+## Contributing
+
+Feel free to contribute by submitting issues or creating pull requests.

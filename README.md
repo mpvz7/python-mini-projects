@@ -4,13 +4,12 @@ This repository contains a collection of mini-projects developed in Python. Each
 
 ## Projects
 
- 1. [Password Generator](./project1/README.md)  
+ 1. [Password Generator](./password_generator/README.md)  
    A random password generator that creates secure passwords of varying lengths and complexities.
 
-<!-- 
-2. [Guess the Number Game](./project2/README.md)  
+2. [Guess the Number Game](./guessing_number/README.md)  
    A simple game where the user tries to guess a randomly chosen number with hints provided.
-
+<!-- 
 3. [Dice Simulator](./project3/README.md)  
    A dice rolling simulator supporting different types of dice (D6, D20, etc.).
 

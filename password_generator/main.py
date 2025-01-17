@@ -24,7 +24,7 @@ def generate_password(length, use_uppercase, use_digits, use_special_chars):
     return password
 
 def main():
-    input("Welcome to the Password Generator. Press Enter to continue...")
+    print("Welcome to the Password Generator!")
     
     password_valid = False
 
