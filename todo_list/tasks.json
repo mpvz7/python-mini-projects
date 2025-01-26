@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Finish Python project",
+        "completed": false
+    },
+    {
+        "task": "Read a book",
+        "completed": true
+    },
+    {
+        "task": "Call Mom <3",
+        "completed": true
+    }
+]
